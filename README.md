@@ -6,7 +6,7 @@ if A[K] = M then element A[K] points to element A[K+M].
 
 The array defines a sequence of jumps of a pawn as follows;
 - initially, the pawn is located at element A[0];
-- on each jump the pawn moves from its current element to the destination element pointed to by the current; i.e. if the pawn stands on element A[K] then it
+- on each jump the pawn moves from its current element to the destination element pointed to by the current element; i.e. if the pawn stands on element A[K] then it
 jumps to the element pointed to by A[K];
 - the pawn may jump forever or may jump out of the array.
 
