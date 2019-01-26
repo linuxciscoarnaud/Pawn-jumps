@@ -43,3 +43,12 @@ A[0] = 1
 A[1] = 1   
 A[2] = -1    
 A[3] = 1
+
+![3-1](https://user-images.githubusercontent.com/1300982/51784902-5c3b4800-2150-11e9-8d60-54d2cbfde94c.png)
+
+the function shoud return -1.
+
+Write an efficient algorithm for the following assumptions:
+
+- N is an integer within the range [1..100,000];
+- each element of the array A is A is an integer within the range [-1,000,000..1,000,000].
