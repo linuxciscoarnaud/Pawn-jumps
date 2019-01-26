@@ -46,7 +46,7 @@ A[3] = 1
 
 ![3-1](https://user-images.githubusercontent.com/1300982/51784902-5c3b4800-2150-11e9-8d60-54d2cbfde94c.png)
 
-the function shoud return -1.
+the function should return -1.
 
 Write an efficient algorithm for the following assumptions:
 
