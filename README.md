@@ -9,3 +9,7 @@ The array defines a sequence of jumps of a pawn as follows;
 - on each jump the pawn moves from its current element to the destination element pointed to by the current; i.e. if the pawn stands on element A[K] then it
 jumps to the element pointed to by A[K];
 - the pawn may jump forever or may jump out of the array.
+
+For example, consider the following array A.
+
+A[0] = 2    A[1] = 3   A[2] = -1    A[3] = 1    A[4] = 3
