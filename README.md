@@ -36,7 +36,7 @@ that, given a non-empty array A consisting of N integers, returns the number of 
 after which the pawn will be out of the array. The function should return -1 if the pawn
 will never jump out of the array.
 
-For example, for the array A given above, the function should 4, as explained above. Given
+For example, for the array A given above, the function should return 4, as explained above. Given
 array A such that:
 
 A[0] = 1    
