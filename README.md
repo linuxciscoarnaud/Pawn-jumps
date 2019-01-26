@@ -12,4 +12,8 @@ jumps to the element pointed to by A[K];
 
 For example, consider the following array A.
 
-A[0] = 2    A[1] = 3   A[2] = -1    A[3] = 1    A[4] = 3
+A[0] = 2    
+A[1] = 3   
+A[2] = -1    
+A[3] = 1    
+A[4] = 3
